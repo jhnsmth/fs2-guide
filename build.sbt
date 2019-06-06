@@ -2,7 +2,7 @@ name := "fs2-guide"
 
 version := "0.1"
 
-scalaVersion := "2.12.6"
+scalaVersion := "2.12.8"
 
 val testZv = "0.0.5"
 val fs2v = "1.0.0"
