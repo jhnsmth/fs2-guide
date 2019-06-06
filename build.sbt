@@ -5,7 +5,7 @@ version := "0.1"
 scalaVersion := "2.12.8"
 
 val testZv = "0.0.5"
-val fs2v = "1.0.0"
+val fs2v = "1.0.4"
 
 libraryDependencies ++= Seq(
   "org.scalaz" %% "testz-core" % testZv,
